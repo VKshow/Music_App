@@ -1,7 +1,7 @@
 {
   "name": "music-app",
   "private": true,
-  "homepage": "https://VKshow.github.io/Music_App",
+  "homepage": "https://VKshow.github.io/Music_App/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
