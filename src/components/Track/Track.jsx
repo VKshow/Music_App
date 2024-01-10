@@ -14,7 +14,7 @@ import cn from 'classnames';
 
 const Track = (track) => {
 
-    const {preview, title, artists, duration} = track;
+    const {id, src, preview, title, artists, duration} = track;
 
     const {handleToggleAudio, currentTrack, isPlaying} = useContext(AudioContext);
     
