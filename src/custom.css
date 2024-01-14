@@ -40,5 +40,5 @@ body{
 }
 
 .css-1x51dt5-MuiInputBase-input-MuiInput-input {
-    background: white;
+    background: white !important;
 }
