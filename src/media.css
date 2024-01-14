@@ -1,0 +1,33 @@
+
+
+@media (max-width: 632px){
+    ._list_1ygv6_16 {
+        width: 95%;
+    }
+    ._search_1ygv6_1 {
+        width: 95%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        flex: 1;
+        align-items: center;
+    }
+    ._playbar_a5d9s_1 {
+        flex-wrap: wrap;
+    }
+    ._playbar_a5d9s_1 {
+        height: auto;
+        
+    }
+    ._preview_a5d9s_23 {
+        margin: 5px
+    }
+
+}
+
+@media (max-width: 619px){
+    ._list_1ygv6_16 {
+        width: 95%;
+    }
+    
+}

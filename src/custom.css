@@ -1,0 +1,35 @@
+._wrapper_1shrz_10 {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+._list_1ygv6_16 {
+    
+    margin-top: 40px;
+    -webkit-box-shadow: 0px 0px 24px -5px #000000; 
+box-shadow: 0px 0px 24px -5px #000000;
+}
+
+.css-bz5ng3-MuiInputBase-root-MuiInput-root {
+    margin-top: 40px;
+    border: 1px solid darkgrey;
+    border-radius: 40px;
+    overflow: hidden;
+    -webkit-box-shadow: 0px 0px 24px -5px #000000; 
+    box-shadow: 0px 0px 24px -5px #000000;
+}
+
+._list_1ygv6_16 {
+    width: 100%;
+    
+}
+
+._track_9wgvu_1 {
+    padding: 5px;
+    border-radius: 15px;
+    transition: all 0.3s ease;
+}
+._track_9wgvu_1:hover {
+    background: rgb(205, 205, 205);
+}
